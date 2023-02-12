@@ -1,0 +1,6 @@
+@import "common-ui";
+
+.headline {
+  @include headline;
+  background-color: var(--color-primary);
+}
